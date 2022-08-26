@@ -1,0 +1,35 @@
+.banner{
+    background-image: url('banner.png');
+    height: 500px;
+    background-size: cover;
+    margin-bottom: 3em;
+}
+.menu a{
+    color: white;
+    padding: 2em 2em;
+    margin-top: 2em;
+    background: #1c1c1c21;
+}
+.menu a:hover{
+    color: white;
+    padding: 2em 2em;
+    background: orange;
+}
+.titulo{
+    color: orangered;
+    margin-top: 3em !important;
+    font-size: 4em;
+    float: right;
+    background: #06480e70;
+    padding: 0.5em 1em;
+}
+.img-circle {
+    border-radius: 400px;
+}
+.card{
+    border: 1px;
+}
+footer{
+    background: #34480b;
+    height: 300px;
+}
